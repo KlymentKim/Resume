@@ -102,6 +102,9 @@ body{
     color: #000000;
     margin-bottom: 20px;
 }
+.company-width {
+    width: 525px;
+}
 .work-position{
         font-style: normal;
         font-weight: 700;
@@ -146,6 +149,7 @@ body{
 }
 .education{
     margin-bottom: 60px;
+    width: 525px;
 }
 /* sidebar */
 .sidebar{
